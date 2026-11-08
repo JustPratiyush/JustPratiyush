@@ -1,4 +1,4 @@
-# Hi, I’m Abhinav.
+# ![Hi, I’m Abhinav.](./assets/tranquility-header.jpg)
 
 I’ve been independently building and shipping software products while finishing my Computer & Communication Engineering degree at Manipal University Jaipur. My [Retrium OS demo reel](https://www.instagram.com/reel/DbicaGsv5XM/) drew about 130,000 views, and student-led startups reached out about my work.
 
