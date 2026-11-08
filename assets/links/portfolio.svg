@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111" height="32" viewBox="0 0 111 32" role="img" aria-labelledby="title">
+  <title id="title">Portfolio</title>
+  <rect x=".5" y=".5" width="110" height="31" rx="6" fill="#b6ebd0" stroke="#689b85"/>
+  <g stroke="#173e31" stroke-width="1.65" stroke-linejoin="round" fill="none">
+    <rect x="10.5" y="8.5" width="17" height="15" rx="2"/>
+    <path d="M11 13h16m-13-2.2h1m1.5 0h1m-3.3 6.2 2 2-2 2m4.5 0h4"/>
+  </g>
+  <text x="37" y="20.6" fill="#163a2e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="600">Portfolio</text>
+</svg>
